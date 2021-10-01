@@ -7,5 +7,5 @@
 ## Task Description
 
 1. Create an **AWS EC2 instance**. <br>
-2. Configure the instance with **Apache Webserver**. Download **PHP** application. As Wordpress stores data at the backend in MySQL Database server. Therefore, you need to setup a my SQL server using AWS RDS service. <br>
-3. Provide the endpoint/connection string to the WordPress application to make it work. <br>
+2. Configure the instance with **Apache Webserver**. Download **PHP** application. As Wordpress stores data at the backend in **MySQL Database** server. Therefore, you need to setup a MySQL server using **AWS RDS service**. <br>
+3. Provide the **endpoint/connection string** to the WordPress application to make it work. <br>
