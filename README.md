@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Integrating WordPress with Amazon RDS using Terraform </h1>
-  <img src="https://miro.medium.com/max/600/1*QasZai2g0_PzhGI640_0eg.png" alt="Paris" class="center">
+  <img src="https://miro.medium.com/max/600/1*QasZai2g0_PzhGI640_0eg.png" alt="Paris">
 </div>
 
 
